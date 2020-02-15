@@ -1,6 +1,15 @@
 # retoxrama
+===========
 
-6 3 D 2    插 insert, stick into; plant
-6 6 F 2    曲 crooked, bent; wrong, false
-8 1 1 A    脚 leg, foot; base, leg, foundation
-6 7 2 C    本 root, origin, source; basis
+0
+
+--------   x(4)    -------
+
+0 0 0 0            9 6 F 6    零 zero
+
+--------   hex     -------
+
+0 0 0 0            6 3 D 2    插 insert, stick into; plant
+0 0 0 0            6 6 F 2    曲 crooked, bent; wrong, false
+0 0 0 0            8 1 1 A    脚 leg, foot; base, leg, foundation
+0 0 0 0            6 7 2 C    本 root, origin, source; basis
