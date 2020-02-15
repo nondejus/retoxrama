@@ -1,4 +1,14 @@
-8 1 1 1    脑 brain
-9 A D 3    髓 bone marrow; essences, substances
-8 F B 2    農 agriculture, farming; farmer
-5 8 3 4    場 open space, field, market
+0
+
+--------   x(4)    -------
+
+0 0 0 0            9 6 F 6    零 zero
+
+--------   hex     -------
+
+0 0 0 0            8 1 1 1    脑 brain
+0 0 0 0            9 A D 3    髓 bone marrow; essences, substances
+0 0 0 0            8 F B 2    農 agriculture, farming; farmer
+0 0 0 0            5 8 3 4    場 open space, field, market
+
+-------  unicode   -------
